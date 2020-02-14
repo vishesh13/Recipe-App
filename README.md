@@ -1,2 +1,3 @@
 # Recipe-App
-A React application to search for a food recipe.
+A Application to search for a food recipe implemented using react and react-hooks.
+
